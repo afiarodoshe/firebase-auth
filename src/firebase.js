@@ -3,13 +3,12 @@ import "firebase/auth";
 
 const app = firebase.initializeApp({
         
-apiKey: "AIzaSyDdowlj798WZGpAWhg7oj36YCDJb2q4U2I",
-authDomain: "fir-auth-development-ac942.firebaseapp.com",
-projectId: "fir-auth-development-ac942",
-storageBucket: "fir-auth-development-ac942.appspot.com",
-messagingSenderId: "355084426889",
-appId: "1:355084426889:web:5c1ffd5f2aec451c6eb058"
-
+    apiKey: "AIzaSyBBgoTBliWFPpyUu09ywP-7PDJ39FiAMVI",
+    authDomain: "fir-auth-development-52f30.firebaseapp.com",
+    projectId: "fir-auth-development-52f30",
+    storageBucket: "fir-auth-development-52f30.appspot.com",
+    messagingSenderId: "577386891557",
+    appId: "1:577386891557:web:07c1c26cce29a80c0bb2cc"
 });
 
 const auth = app.auth();
